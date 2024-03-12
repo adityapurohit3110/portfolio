@@ -2,5 +2,5 @@ FROM nginx:latest
 
 COPY /*index /usr/share/nginx/html/
 
-EXPOSE 82
+EXPOSE 80
 
